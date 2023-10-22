@@ -320,7 +320,7 @@ span {
 .corner {
   width: 41.5rem;
   height: 23rem;
-  background: url('img\Untitled-1.png');
+  background: url('img/Untitled-1.png');
   z-index: 1;
   display: flex;
   align-items: center;
@@ -570,7 +570,7 @@ footer p {
   display: flex;
   align-items: center;
   padding: 0 10%;
-  background: url('img\bg1.png') no-repeat;
+  background: url('img/bg1.png') no-repeat;
   background-size: cover;
   background-position: center;
   background-color: #020512;
@@ -585,7 +585,7 @@ footer p {
   padding: 0 10%;
   justify-content: center;
   flex-direction: column;
-  background: url('img\vid-1.gif') no-repeat;
+  background: url('img/vid-1.gif') no-repeat;
   background-size: contain;
   background-position: left;
   background-color: #0b1230;
@@ -609,7 +609,7 @@ footer p {
   justify-content: center;
   flex-direction: column;
   padding-bottom: 7rem;
-  background: url('img\Untitled-1.png') no-repeat;
+  background: url('img/Untitled-1.png') no-repeat;
   background-size: cover;
   background-position: center;
   background-color: #0b1230;
@@ -622,7 +622,7 @@ footer p {
   align-items: center;
   flex-direction: column;
   padding-bottom: 7rem;
-  background: url('img\img1-3.jpg') no-repeat;
+  background: url('img/img1-3.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   background-color: #020512;
@@ -726,7 +726,7 @@ footer p {
   }
 
   .portfolio {
-    background: url('img\img1-4.jpg');
+    background: url('img/img1-4.jpg');
     background-size: cover;
     background-position: center;
   }
